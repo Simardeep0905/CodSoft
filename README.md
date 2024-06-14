@@ -7,7 +7,6 @@ TASK 2 - Student grade calculator
 The Java code represents a simple student grading system that takes user input to determine the grades based on the average percentage achieved of a specified number of subjects. It prompts the user to enter the number of subjects and then collects their respective marks through a loop.It shows the total marks, average percentage, and the corresponding grade to the user.
 
 Task 3 - ATM Interface
-
 ATM Interface in Java The ATM interface is a Java application designed to provide a user-friendly and efficient experience for managing banking transactions. It incorporates the principles of Object-Oriented Programming (OOP) to organize the code into modular and reusable components.
 
 TASK 4 - Quiz App
